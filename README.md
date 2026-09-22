@@ -537,7 +537,7 @@ The project automatically generates OpenAPI documentation.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/RestfulApiBestPractices.git
+git clone[ https://github.com/yourusername/RestfulApiBestPractices.git](https://github.com/alidev313xdot/restful-api-best-practices.api)
 ```
 
 ## Navigate to Project
