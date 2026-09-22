@@ -43,6 +43,9 @@ RestfulApiBestPractices.Api
 │
 ├── Models
 │   └── Product.cs
+|
+├── Properties
+│   └── launchsettings.json
 │
 ├── Services
 │   ├── IProductService.cs
@@ -50,7 +53,7 @@ RestfulApiBestPractices.Api
 │
 ├── Program.cs
 ├── appsettings.json
-└── launchSettings.json
+
 ```
 ---
 ## Technologies Used
